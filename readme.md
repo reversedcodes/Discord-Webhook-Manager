@@ -50,7 +50,7 @@ By leveraging the webhooks created with this tool, developers can implement adva
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/discord-webhook-manager.git
+   git clone https://github.com/reversedcodes/Discord-Webhook-Manager.git
    cd discord-webhook-manager
    ```
 
@@ -61,7 +61,7 @@ By leveraging the webhooks created with this tool, developers can implement adva
 
 3. Run the script:
    ```bash
-   python webhook_manager.py
+   python main.py
    ```
 
 ## Usage
